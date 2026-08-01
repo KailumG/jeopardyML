@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="jeopardy.xsl"?>
+<jeopardy>
+  <points>200</points>
+  <points>400</points>
+  <points>600</points>
+  <points>800</points>
+  <points>1000</points>
+
+  <category title="Before and After">
+    <riddle>
+      <clue>A billionaire genius fights crime in a mechanical suit, then turns out to also be a Kryptonian superhero known for near invulnerability.</clue>
+      <solution>What is Iron Man of Steel? (Iron Man + Man of Steel)</solution>
+    </riddle>
+    <riddle>
+      <clue>A sitcom about a widowed father raising three daughters with help from friends becomes a Netflix political thriller about a ruthless congressman's rise to power.</clue>
+      <solution>What is Full House of Cards? (Full House + House of Cards)</solution>
+    </riddle>
+    <riddle>
+      <clue>A chemistry teacher turns to cooking meth to secure his family's future, in a story that becomes a Lady Gaga song about a toxic relationship.</clue>
+      <solution>What is Breaking Bad Romance? (Breaking Bad + Bad Romance)</solution>
+    </riddle>
+    <riddle>
+      <clue>A boy helps a captive orca return to the ocean, in a story that becomes about an eccentric chocolatier running mysterious factory tours.</clue>
+      <solution>What is Free Willy Wonka? (Free Willy + Willy Wonka)</solution>
+    </riddle>
+    <riddle>
+      <clue>A boy who sees dead people stars in a twist-ending thriller, that becomes a Jane Austen novel about two sisters navigating romance and social expectation.</clue>
+      <solution>What is The Sixth Sense and Sensibility? (The Sixth Sense + Sense and Sensibility)</solution>
+    </riddle>
+  </category>
+
+    <category title="Guess the Year">
+    <riddle>
+      <clue>This year, the Berlin Wall fell, paving the way for German reunification.</clue>
+      <solution>What is 1989?</solution>
+    </riddle>
+    <riddle>
+      <clue>This year, the first iPhone went on sale.</clue>
+      <solution>What is 2007?</solution>
+    </riddle>
+    <riddle>
+      <clue>This year, the Chernobyl nuclear disaster occurred in Soviet Ukraine.</clue>
+      <solution>What is 1986?</solution>
+    </riddle>
+    <riddle>
+      <clue>This year, the Wright brothers achieved the first powered, controlled airplane flight.</clue>
+      <solution>What is 1903?</solution>
+    </riddle>
+    <riddle>
+      <clue>This year, sliced bread was first sold commercially, giving rise to the phrase used to praise any great invention.</clue>
+      <solution>What is 1928?</solution>
+    </riddle>
+  </category>
+
+   <category title="Bizarre Laws">
+    <riddle>
+      <clue>In this country, parents must choose baby names from an approved list, or submit new ones for review by a national naming committee.</clue>
+      <solution>What is Iceland?</solution>
+    </riddle>
+    <riddle>
+      <clue>In this country, it's illegal to keep certain social animals, like guinea pigs, completely alone, since animal welfare law requires them to have companionship.</clue>
+      <solution>What is Switzerland?</solution>
+    </riddle>
+    <riddle>
+      <clue>In this country, the sale and import of chewing gum has been tightly restricted since 1992 to keep public spaces clean.</clue>
+      <solution>What is Singapore?</solution>
+    </riddle>
+    <riddle>
+      <clue>In this country, it's illegal to run out of fuel on a certain stretch of motorway, since stopping unnecessarily there is considered a serious hazard.</clue>
+      <solution>What is Germany?</solution>
+    </riddle>
+    <riddle>
+      <clue>In this country, it's illegal to pay a bill of more than 25 cents entirely in pennies, under a law governing legal tender.</clue>
+      <solution>What is Canada?</solution>
+    </riddle>
+  </category>
+
+      <category title="Poorly Described World Records">
+    <riddle>
+      <clue>Never trim a single piece of yourself for over thirty years, until doing basically anything with your hands becomes an ordeal.</clue>
+      <solution>What is the world record for longest fingernails?</solution>
+    </riddle>
+    <riddle>
+      <clue>Turn an entire form of transportation into a very slow, very metal-heavy meal over several weeks.</clue>
+      <solution>What is the world record for eating a bicycle?</solution>
+    </riddle>
+    <riddle>
+      <clue>Make a noise with your own mouth loud enough to rival a power tool</clue>
+      <solution>What is the world record for loudest burp?</solution>
+    </riddle>
+    <riddle>
+      <clue>Turn your own face into improvised kitchen storage, using nothing but static electricity and stubbornness.</clue>
+      <solution>What is the world record for most spoons balanced on the face?</solution>
+    </riddle>
+    <riddle>
+      <clue>Cover your own face with as many small, shelled mollusks as will stay put in sixty seconds.</clue>
+      <solution>What is the world record for most snails balanced on the face?</solution>
+    </riddle>
+  </category>
+
+  <category title="Video games explained badly">
+    <riddle>
+      <clue>
+        Man kills turtles and eats mushrooms to try and rescrue his lover
+      </clue>
+      <solution>
+        What is Super Mario Bros?
+      </solution>
+    </riddle>
+    <riddle>
+      <clue>
+        A woman falls through white rooms because science, occasionally getting yelled at by a paranoid potato.
+      </clue>
+      <solution>
+        What is Portal?
+      </solution>
+    </riddle>
+    <riddle>
+      <clue>
+        Punch a man in a diving suit while genetically modified children stab corpses with needles for you.
+      </clue>
+      <solution>
+        What is Bioshock?
+      </solution>
+    </riddle>
+    <riddle>
+      <clue>
+        Ruin strangers' days with a rubber stamp so your cartoon family doesn't freeze to death.
+      </clue>
+      <solution>
+        What is Papers Please?
+      </solution>
+    </riddle>
+    <riddle>
+      <clue>
+        A man carries boxes across post-apocalyptic America while a baby in a jar helps him see ghosts.
+      </clue>
+      <solution>
+        What is Death Stranding?
+      </solution>
+    </riddle>
+  </category>
+</jeopardy>
