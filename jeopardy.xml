@@ -10,7 +10,7 @@
   <category title="Examples">
     <riddle>
       <clue>
-                <audio controls autoplay>
+        <audio controls="controls">
           <source src="songs/song1.mp3" type="audio/mpeg" />
         </audio>
         Name the Artist and Song title
