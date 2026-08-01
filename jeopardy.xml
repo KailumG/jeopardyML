@@ -10,11 +10,13 @@
   <category title="Examples">
     <riddle>
       <clue>
-        <img src="nasa_iss.jpg" />
-        The first element of this space station (Credit: NASA) flew to space on Nov. 20 1998.
+                <audio controls autoplay>
+          <source src="songs/song1.mp3" type="audio/mpeg" />
+        </audio>
+        Name the Artist and Song title
       </clue>
       <solution>
-        What is the ISS?
+        What is the Black Parade by My Chemical Romance
       </solution>
     </riddle>
     <riddle>
