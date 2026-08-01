@@ -7,7 +7,7 @@
   <points>400</points>
   <points>500</points>
 
-  <category title="Examples">
+  <category title="Song snippets">
     <riddle>
       <clue>
                 <audio controls autoplay>
@@ -16,172 +16,180 @@
         Name the Artist and Song title
       </clue>
       <solution>
-        What is the Black Parade by My Chemical Romance
+        What is the Black Parade by My Chemical Romance?
       </solution>
     </riddle>
     <riddle>
-      <clue>
-        <img src="nasa_iss.jpg" style="height:30%" />
-        The first element of this space station flew to space on Nov. 20 1998.(Credit: NASA)
+ <clue>
+                <audio controls autoplay>
+          <source src="songs/song2.mp3" type="audio/mpeg" />
+        </audio>
+        Name the Artist and Song title
       </clue>
       <solution>
-        What is the ISS?
+        What is Living on a prayer by Bon Jovi?
       </solution>
     </riddle>
     <riddle>
-      <clue>
-        The first element of this space station (Credit: NASA) flew to space on Nov. 20 1998.
-        <img src="nasa_iss.jpg" />
+       <clue>
+                <audio controls autoplay>
+          <source src="songs/song3.mp3" type="audio/mpeg" />
+        </audio>
+        Name the Artist and Song title
       </clue>
       <solution>
-        What is the ISS?
+        What is Midnight City by M83?
+      </solution>
+    </riddle>
+          <clue>
+                <audio controls autoplay>
+          <source src="songs/song4.mp3" type="audio/mpeg" />
+        </audio>
+        Name the Artist and Song title
+      </clue>
+      <solution>
+        What is Ice Ice Baby by Vanilla Ice?
       </solution>
     </riddle>
     <riddle>
-      <clue>
-        The first element of this space station flew to space on Nov. 20 1998.
+           <clue>
+                <audio controls autoplay>
+          <source src="songs/song5.mp3" type="audio/mpeg" />
+        </audio>
+        Name the Artist and Song title
       </clue>
       <solution>
-        <img src="nasa_iss.jpg" />
-        What is the ISS? (Credit: NASA)
-      </solution>
-    </riddle>
-    <riddle>
-      <clue>
-        The first element of this space station flew to space on Nov. 20 1998.
-      </clue>
-      <solution>
-        What is the ISS?
-      </solution>
-    </riddle>
-  </category>
-
-  <category title="Category 2">
-    <riddle>
-      <clue>
-        Clue 2 1
-      </clue>
-      <solution>
-        Solution 2 1
-      </solution>
-    </riddle>
-    <riddle>
-      <clue>
-        Clue 2 2
-      </clue>
-      <solution>
-        Solution 2 2
-      </solution>
-    </riddle>
-    <riddle>
-      <clue>
-        Clue 2 3
-      </clue>
-      <solution>
-        Solution 2 3
-      </solution>
-    </riddle>
-    <riddle>
-      <clue>
-        Clue 2 4
-      </clue>
-      <solution>
-        Solution 2 4
-      </solution>
-    </riddle>
-    <riddle>
-      <clue>
-        Clue 2 5
-      </clue>
-      <solution>
-        Solution 2 5
+        What Super Freak by Rick James?
       </solution>
     </riddle>
   </category>
 
-
-  <category title="Category 3">
+  <category title="Guess the Movie">
     <riddle>
       <clue>
-        Clue 3 1
+        🦈
       </clue>
       <solution>
-        Solution 3 1
+        What is Jaws?
       </solution>
     </riddle>
     <riddle>
       <clue>
-        Clue 3 2
+        🦖🏝️
       </clue>
       <solution>
-        Solution 3 2
+        What is Jurassic Park?
       </solution>
     </riddle>
     <riddle>
       <clue>
-        Clue 3 3
+        👨‍👩‍👧‍👦🔄🚗⏰
       </clue>
       <solution>
-        Solution 3 3
+        What is Back to the Future?
       </solution>
     </riddle>
     <riddle>
       <clue>
-        Clue 3 4
+        👨‍🚀🌌🕳️⏳
       </clue>
       <solution>
-        Solution 3 4
+        What is Interstella?
       </solution>
     </riddle>
     <riddle>
       <clue>
-        Clue 3 5
+        💭🌪️🏙️🔄
       </clue>
       <solution>
-        Solution 3 5
+        What is Inception
       </solution>
     </riddle>
   </category>
 
-  <category title="Category 4">
+
+  <category title="Landmarks">
     <riddle>
       <clue>
-        Clue 4 1
+        This structure was built for the 1889 World's Fair and was meant to be dismantled after 20 years.
       </clue>
       <solution>
-        Solution 4 1
+        What is the Eiffel Tower
       </solution>
     </riddle>
     <riddle>
       <clue>
-        Clue 4 2
+        This ancient Roman amphitheater could hold up to 80,000 spectators for gladiator contests.
       </clue>
       <solution>
-        Solution 4 2
+        What is the Colosseum?
       </solution>
     </riddle>
     <riddle>
       <clue>
-        Clue 4 3
+        This Mughal emperor built this white marble mausoleum for his favorite wife, who died in childbirth.
       </clue>
       <solution>
-        Solution 4 3
+        What is the Taj Mahal?
       </solution>
     </riddle>
     <riddle>
       <clue>
-        Clue 4 4
+        For over 3,800 years this structure was the tallest man-made structure on Earth
       </clue>
       <solution>
-        Solution 4 4
+        hat is the Great Pyramid of Giza?
       </solution>
     </riddle>
     <riddle>
       <clue>
-        Clue 4 5
+        Carved by the Nabataeans over 2,000 years ago, this place vanished from Western knowledge until a Swiss explorer disguised himself as a local trader to find it in 1812.
       </clue>
       <solution>
-        Solution 4 5
+        What is Petra?
+      </solution>
+    </riddle>
+  </category>
+
+    <category title="Animal Superpowers">
+    <riddle>
+      <clue>
+        This animal can lift objects up to 50 times its own body weight.
+      </clue>
+      <solution>
+        What is an ant?
+      </solution>
+    </riddle>
+    <riddle>
+      <clue>
+        This animal can rotate its head up to 270 degrees without cutting off blood flow to its brain.
+      </clue>
+      <solution>
+        What is an owl?
+      </solution>
+    </riddle>
+    <riddle>
+      <clue>
+        This animal's tongue can extend up to twice the length of its own body in a fraction of a second to catch prey.
+      </clue>
+      <solution>
+        What is a chameleon?
+      </solution>
+    </riddle>
+    <riddle>
+      <clue>
+        This animal's blood is naturally blue, due to a copper-based molecule called hemocyanin instead of iron-based hemoglobin.
+      </clue>
+      <solution>
+        What is an octopus?
+      </solution>
+    </riddle>
+    <riddle>
+      <clue>
+        From the 1930s to the 1960s, injecting this animal with a woman's urine and checking whether it laid eggs within hours was the standard human pregnancy test.
+      </clue>
+      <solution>
+        What is the African clawed frog?
       </solution>
     </riddle>
   </category>
@@ -190,42 +198,42 @@
   <category title="Category 5">
     <riddle>
       <clue>
-        Clue 5 1
+        Man kills turtles and eats mushrooms to try and rescrue his lover
       </clue>
       <solution>
-        Solution 5 1
+        What is Super Mario Bros?
       </solution>
     </riddle>
     <riddle>
       <clue>
-        Clue 5 2
+        A woman falls through white rooms because science, occasionally getting yelled at by a paranoid potato.
       </clue>
       <solution>
-        Solution 5 2
+        What is Portal?
       </solution>
     </riddle>
     <riddle>
       <clue>
-        Clue 5 3
+        Punch a man in a diving suit while genetically modified children stab corpses with needles for you.
       </clue>
       <solution>
-        Solution 5 3
+        What is Bioshock?
       </solution>
     </riddle>
     <riddle>
       <clue>
-        Clue 5 4
+        Ruin strangers' days with a rubber stamp so your cartoon family doesn't freeze to death.
       </clue>
       <solution>
-        Solution 5 4
+        What is Papers Please?
       </solution>
     </riddle>
     <riddle>
       <clue>
-        Clue 5 5
+        A man carries boxes across post-apocalyptic America while a baby in a jar helps him see ghosts.
       </clue>
       <solution>
-        Solution 5 5
+        What is Death Stranding?
       </solution>
     </riddle>
   </category>
